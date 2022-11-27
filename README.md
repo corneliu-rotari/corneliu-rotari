@@ -8,13 +8,13 @@ ___
 ## :bar_chart: Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=corneliu-rotari&theme=dark&background=000000)](https://git.io/streak-stats) 
-<img align="right" src="https://media.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif" width="400"/>
+<img align="right" src="https://media.giphy.com/media/iiJ870TcI3PZKxatzS/giphy.gif" width="200"/>
   
 ___
 
 ## :hammer_and_wrench: Languages and Tools :  	
 <div>
-<img align="right" src="https://media.giphy.com/media/3o6Zt7s3ATi1GgWJFK/giphy.gif" width="250" height="250">
+<img align="right" src="https://media.giphy.com/media/3o6Zt7s3ATi1GgWJFK/giphy.gif" width="100" height="100">
 <span align="right">
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" width="30" height="30"/>
