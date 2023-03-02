@@ -1,8 +1,11 @@
-<h1> Corneliu Rotari   
-  <a href="https://www.linkedin.com/in/corneliu-rotari/">
-		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-	</a>
-</h1>
+<div>
+	<h1> Corneliu Rotari   
+  		<a href="https://www.linkedin.com/in/corneliu-rotari/">
+			<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+		</a>
+	</h1>
+</div>
+<div>
  
 ___
 ## :bar_chart: Stats
@@ -29,12 +32,13 @@ ___
 </div>
 <br>
 
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corneliu-rotari&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 ___
 
 
-
+</div>
 <!--
 
 <img align="right" src="https://media.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.gif" width="250" height="200">
